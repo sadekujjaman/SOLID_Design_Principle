@@ -10,6 +10,8 @@ import java.util.*;
 
 /***
  * 
+ * Liskov Substitution Principle(LSP): Subclass/derived class should be substitutable for their base/parent class.
+ * 
  * Consider the payroll application of a software company. 
  * The Employee class is abstract 
  * and has an abstract method named calculatePay. 
